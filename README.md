@@ -13,7 +13,7 @@ The focus was on **revenue trends, profit margins, and customer/product performa
 1. **Data Preparation**
    - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)  
    - Dataset split into 5 CSVs to reduce redundancy.  
-   - Created SQL Server database (`Source`) with calculated columns.  
+   - Created SQL Server database (Source) with calculated columns.  
 
 2. **Data Modeling**
    - Loaded into Power BI using **Direct Query**.  
