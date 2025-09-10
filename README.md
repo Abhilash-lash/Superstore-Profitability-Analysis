@@ -27,12 +27,12 @@ The focus was on **revenue trends, profit margins, and customer/product performa
 ---
 
 ##  Key Insights
-- Technology leads profits (~17% margin, $145K profits).  
-- Furniture contributes ~1/3rd of revenue yearly despite low margins.  
-- Top customer **Sean Miller** brings in revenue but overall loss (-$1.9K).  
-- Copiers & Paper = strong revenue + margins.  
-- Revenue grew steadily ~20% YoY despite a dip in 2012.  
-- Margins peaked in Q3 2013 but declined sharply through 2014.  
+   -Technology leads profits (~17% margin, $145K profits).  
+   -Furniture contributes ~1/3rd of revenue yearly despite low margins.  
+   -Top customer **Sean Miller** brings in revenue but overall loss (-$1.9K).  
+   -Copiers & Paper = strong revenue + margins.  
+   -Revenue grew steadily ~20% YoY despite a dip in 2012.  
+   -Margins peaked in Q3 2013 but declined sharply through 2014.  
 
 ---
 
